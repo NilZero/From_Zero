@@ -1,9 +1,0 @@
-#include<stdio.h>
-int main()
-{
-    printf("上传到GitHub");
-    scanf("%d");
-
-    return 0;
-}
-
